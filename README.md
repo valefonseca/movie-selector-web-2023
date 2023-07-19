@@ -16,6 +16,8 @@ La primera implementación contiene lo siguiente:
 Diseño simple de la interfaz a implementar
 ![primera interfaz](assets\interfasePrototype.png)
 
+## Paleta de colores:
+![Alt text](assets\colorPalette.png)
 
 ## ☆ TO DO:
 ### **Interfaz accesible ☆** 
